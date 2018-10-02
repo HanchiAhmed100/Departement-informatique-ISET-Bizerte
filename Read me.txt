@@ -1,0 +1,17 @@
+Page d'acceuil : depinfo-php.php .
+
+Langage backend : php 7 .
+
+Framework front-end : uikit , bootstrap .
+
+Framework javascript : jquery , modernizr,ajax .
+
+Script de police : Font awesome .
+
+Login :
+
+1	adresse : hanchi.ahmed@yahoo.fr
+	mot de passe : hanchi
+
+2	adresse : ines.abbes@gmail.com
+	mot de passe : iset
